@@ -343,7 +343,7 @@ mda_fit <- mda_spec %>%
 mda_fit
 #> parsnip model object
 #> 
-#> Fit time:  29ms 
+#> Fit time:  27ms 
 #> Call:
 #> mda::mda(formula = formula, data = data, subclasses = ~2)
 #> 
